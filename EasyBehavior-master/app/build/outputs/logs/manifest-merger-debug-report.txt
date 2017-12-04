@@ -1,0 +1,112 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\palkklt\Desktop\ProjectCode\EasyBehavior-master\app\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from C:\Users\palkklt\Desktop\ProjectCode\EasyBehavior-master\app\src\main\AndroidManifest.xml:4:5-37
+		INJECTED from C:\Users\palkklt\Desktop\ProjectCode\EasyBehavior-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\palkklt\Desktop\ProjectCode\EasyBehavior-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\palkklt\Desktop\ProjectCode\EasyBehavior-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\palkklt\Desktop\ProjectCode\EasyBehavior-master\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\palkklt\Desktop\ProjectCode\EasyBehavior-master\app\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from C:\Users\palkklt\Desktop\ProjectCode\EasyBehavior-master\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\palkklt\Desktop\ProjectCode\EasyBehavior-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\palkklt\Desktop\ProjectCode\EasyBehavior-master\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\palkklt\Desktop\ProjectCode\EasyBehavior-master\app\src\main\AndroidManifest.xml:7:5-27:19
+MERGED from [com.jaeger.statusbarutil:library:1.4.0] C:\Users\palkklt\.android\build-cache\3f8da0e7c5ba889cf9c916aba2c22c7de1d055d3\output\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\palkklt\.android\build-cache\376d06e7869c45feb353702c8f91043756b96d06\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\palkklt\.android\build-cache\71d66f99f76806793ef23ba98b3777635b9d1d9f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\palkklt\.android\build-cache\17569cb8872709294096b77447f1b068a021fa10\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\palkklt\.android\build-cache\8b834d68e851b02e1c14c59e2fee1790b96d4bba\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\palkklt\.android\build-cache\742a29499f485f7af1276cfa82c8a60c4c9419e0\output\AndroidManifest.xml:26:5-20
+MERGED from [EasyBehavior-master:tabLayoutLibrary:unspecified] C:\Users\palkklt\Desktop\ProjectCode\EasyBehavior-master\tabLayoutLibrary\build\intermediates\bundles\default\AndroidManifest.xml:9:5-12:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\palkklt\.android\build-cache\f42c2c382c198f853d015d8ace76fdc709fadf9a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\palkklt\.android\build-cache\d02f1ee217df36613f3fa5efce66bebbf028d3c8\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\palkklt\.android\build-cache\fa3a1f27d4ba7baf0788fcbc4d39801900d71cde\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\palkklt\.android\build-cache\2ed8c674f74f78e19ec0f0889db2b0b4631df65a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\palkklt\.android\build-cache\bdefe81e3f19baaa401afd9ec82d66e087e93795\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\palkklt\.android\build-cache\53831f18cb8fded6c216c4ee5111026596173eb1\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\palkklt\Desktop\ProjectCode\EasyBehavior-master\app\src\main\AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from C:\Users\palkklt\Desktop\ProjectCode\EasyBehavior-master\app\src\main\AndroidManifest.xml:12:9-35
+	android:roundIcon
+		ADDED from C:\Users\palkklt\Desktop\ProjectCode\EasyBehavior-master\app\src\main\AndroidManifest.xml:11:9-54
+	android:allowBackup
+		ADDED from C:\Users\palkklt\Desktop\ProjectCode\EasyBehavior-master\app\src\main\AndroidManifest.xml:8:9-35
+		REJECTED from [EasyBehavior-master:tabLayoutLibrary:unspecified] C:\Users\palkklt\Desktop\ProjectCode\EasyBehavior-master\tabLayoutLibrary\build\intermediates\bundles\default\AndroidManifest.xml:10:9-36
+	android:icon
+		ADDED from C:\Users\palkklt\Desktop\ProjectCode\EasyBehavior-master\app\src\main\AndroidManifest.xml:9:9-43
+	android:theme
+		ADDED from C:\Users\palkklt\Desktop\ProjectCode\EasyBehavior-master\app\src\main\AndroidManifest.xml:13:9-40
+	tools:replace
+		ADDED from C:\Users\palkklt\Desktop\ProjectCode\EasyBehavior-master\app\src\main\AndroidManifest.xml:14:9-44
+activity#me.stefan.easybehavior.StartActivity
+ADDED from C:\Users\palkklt\Desktop\ProjectCode\EasyBehavior-master\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from C:\Users\palkklt\Desktop\ProjectCode\EasyBehavior-master\app\src\main\AndroidManifest.xml:15:19-48
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\palkklt\Desktop\ProjectCode\EasyBehavior-master\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\palkklt\Desktop\ProjectCode\EasyBehavior-master\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\palkklt\Desktop\ProjectCode\EasyBehavior-master\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\palkklt\Desktop\ProjectCode\EasyBehavior-master\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\palkklt\Desktop\ProjectCode\EasyBehavior-master\app\src\main\AndroidManifest.xml:19:27-74
+activity#me.stefan.easybehavior.Demo1Activity
+ADDED from C:\Users\palkklt\Desktop\ProjectCode\EasyBehavior-master\app\src\main\AndroidManifest.xml:23:9-25:60
+	android:theme
+		ADDED from C:\Users\palkklt\Desktop\ProjectCode\EasyBehavior-master\app\src\main\AndroidManifest.xml:25:13-48
+	android:name
+		ADDED from C:\Users\palkklt\Desktop\ProjectCode\EasyBehavior-master\app\src\main\AndroidManifest.xml:24:13-42
+activity#me.stefan.easybehavior.Demo2Activity
+ADDED from C:\Users\palkklt\Desktop\ProjectCode\EasyBehavior-master\app\src\main\AndroidManifest.xml:26:9-60
+	android:name
+		ADDED from C:\Users\palkklt\Desktop\ProjectCode\EasyBehavior-master\app\src\main\AndroidManifest.xml:26:19-48
+uses-sdk
+INJECTED from C:\Users\palkklt\Desktop\ProjectCode\EasyBehavior-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.jaeger.statusbarutil:library:1.4.0] C:\Users\palkklt\.android\build-cache\3f8da0e7c5ba889cf9c916aba2c22c7de1d055d3\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\palkklt\.android\build-cache\376d06e7869c45feb353702c8f91043756b96d06\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\palkklt\.android\build-cache\71d66f99f76806793ef23ba98b3777635b9d1d9f\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\palkklt\.android\build-cache\17569cb8872709294096b77447f1b068a021fa10\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\palkklt\.android\build-cache\8b834d68e851b02e1c14c59e2fee1790b96d4bba\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\palkklt\.android\build-cache\742a29499f485f7af1276cfa82c8a60c4c9419e0\output\AndroidManifest.xml:20:5-44
+MERGED from [EasyBehavior-master:tabLayoutLibrary:unspecified] C:\Users\palkklt\Desktop\ProjectCode\EasyBehavior-master\tabLayoutLibrary\build\intermediates\bundles\default\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\palkklt\.android\build-cache\f42c2c382c198f853d015d8ace76fdc709fadf9a\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\palkklt\.android\build-cache\d02f1ee217df36613f3fa5efce66bebbf028d3c8\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\palkklt\.android\build-cache\fa3a1f27d4ba7baf0788fcbc4d39801900d71cde\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\palkklt\.android\build-cache\2ed8c674f74f78e19ec0f0889db2b0b4631df65a\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\palkklt\.android\build-cache\07e6df293ee1bba3dc6bcbc49fa9be5d4196853c\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\palkklt\.android\build-cache\bdefe81e3f19baaa401afd9ec82d66e087e93795\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\palkklt\.android\build-cache\53831f18cb8fded6c216c4ee5111026596173eb1\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\palkklt\.android\build-cache\376d06e7869c45feb353702c8f91043756b96d06\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\palkklt\Desktop\ProjectCode\EasyBehavior-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\palkklt\Desktop\ProjectCode\EasyBehavior-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\palkklt\Desktop\ProjectCode\EasyBehavior-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\palkklt\Desktop\ProjectCode\EasyBehavior-master\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\palkklt\.android\build-cache\376d06e7869c45feb353702c8f91043756b96d06\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\palkklt\.android\build-cache\71d66f99f76806793ef23ba98b3777635b9d1d9f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\palkklt\.android\build-cache\17569cb8872709294096b77447f1b068a021fa10\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\palkklt\.android\build-cache\8b834d68e851b02e1c14c59e2fee1790b96d4bba\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\palkklt\.android\build-cache\742a29499f485f7af1276cfa82c8a60c4c9419e0\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\palkklt\.android\build-cache\f42c2c382c198f853d015d8ace76fdc709fadf9a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\palkklt\.android\build-cache\d02f1ee217df36613f3fa5efce66bebbf028d3c8\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\palkklt\.android\build-cache\fa3a1f27d4ba7baf0788fcbc4d39801900d71cde\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\palkklt\.android\build-cache\2ed8c674f74f78e19ec0f0889db2b0b4631df65a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\palkklt\.android\build-cache\07e6df293ee1bba3dc6bcbc49fa9be5d4196853c\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\palkklt\.android\build-cache\bdefe81e3f19baaa401afd9ec82d66e087e93795\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\palkklt\.android\build-cache\53831f18cb8fded6c216c4ee5111026596173eb1\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\palkklt\.android\build-cache\376d06e7869c45feb353702c8f91043756b96d06\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\palkklt\.android\build-cache\376d06e7869c45feb353702c8f91043756b96d06\output\AndroidManifest.xml:26:9-47

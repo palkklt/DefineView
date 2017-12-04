@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\palkklt\\Desktop\\ProjectCode\\EasyBehavior-master\\tabLayoutLibrary\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tab.xml",
+        "source": "C:\\Users\\palkklt\\Desktop\\ProjectCode\\EasyBehavior-master\\tabLayoutLibrary\\src\\main\\res\\layout\\layout_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\palkklt\\Desktop\\ProjectCode\\EasyBehavior-master\\tabLayoutLibrary\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tab_left.xml",
+        "source": "C:\\Users\\palkklt\\Desktop\\ProjectCode\\EasyBehavior-master\\tabLayoutLibrary\\src\\main\\res\\layout\\layout_tab_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\palkklt\\Desktop\\ProjectCode\\EasyBehavior-master\\tabLayoutLibrary\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tab_top.xml",
+        "source": "C:\\Users\\palkklt\\Desktop\\ProjectCode\\EasyBehavior-master\\tabLayoutLibrary\\src\\main\\res\\layout\\layout_tab_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\palkklt\\Desktop\\ProjectCode\\EasyBehavior-master\\tabLayoutLibrary\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tab_segment.xml",
+        "source": "C:\\Users\\palkklt\\Desktop\\ProjectCode\\EasyBehavior-master\\tabLayoutLibrary\\src\\main\\res\\layout\\layout_tab_segment.xml"
+    },
+    {
+        "merged": "C:\\Users\\palkklt\\Desktop\\ProjectCode\\EasyBehavior-master\\tabLayoutLibrary\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tab_right.xml",
+        "source": "C:\\Users\\palkklt\\Desktop\\ProjectCode\\EasyBehavior-master\\tabLayoutLibrary\\src\\main\\res\\layout\\layout_tab_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\palkklt\\Desktop\\ProjectCode\\EasyBehavior-master\\tabLayoutLibrary\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tab_bottom.xml",
+        "source": "C:\\Users\\palkklt\\Desktop\\ProjectCode\\EasyBehavior-master\\tabLayoutLibrary\\src\\main\\res\\layout\\layout_tab_bottom.xml"
+    }
+]

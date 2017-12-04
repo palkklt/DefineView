@@ -1,0 +1,94 @@
+<Dataset>
+	<DS name="dsMgrRelayAin">
+		<DO refrence="LinMMXU1$MX$PhV$phsA">
+			<Do refrence="cVal">
+				<magDA value="0"></magDA>
+				<angDA value="0"></angDA>
+			</Do>
+		</DO>
+		<DO refrence="LinMMXU1$MX$PhV$phsB">
+			<Do refrence="cVal">
+				<magDA value="0"></magDA>
+				<angDA value="0"></angDA>
+			</Do>
+		</DO>
+		<DO refrence="LinMMXU1$MX$PhV$phsC">
+			<Do refrence="cVal">
+				<magDA value="0"></magDA>
+				<angDA value="0"></angDA>
+			</Do>
+		</DO>
+		<DO refrence="OsLinMMXU1$MX$A$phsA">
+			<Do refrence="cVal">
+				<magDA value="0"></magDA>
+				<angDA value="0"></angDA>
+			</Do>
+		</DO>
+		<DO refrence="OsLinMMXU1$MX$A$phsB">
+			<Do refrence="cVal">
+				<magDA value="0"></magDA>
+				<angDA value="0"></angDA>
+			</Do>
+		</DO>
+		<DO refrence="OsLinMMXU1$MX$A$phsC">
+			<Do refrence="cVal">
+				<magDA value="0"></magDA>
+				<angDA value="0"></angDA>
+			</Do>
+		</DO>
+		<DO refrence="LinMMXU1$MX$A$phsA">
+			<Do refrence="cVal">
+				<magDA value="0"></magDA>
+				<angDA value="0"></angDA>
+			</Do>
+		</DO>
+		<DO refrence="LinMMXU1$MX$A$phsB">
+			<Do refrence="cVal">
+				<magDA value="0"></magDA>
+				<angDA value="0"></angDA>
+			</Do>
+		</DO>
+		<DO refrence="LinMMXU1$MX$A$phsC">
+			<Do refrence="cVal">
+				<magDA value="0"></magDA>
+				<angDA value="0"></angDA>
+			</Do>
+		</DO>
+		<DO refrence="LinMMXU1$MX$A$neut">
+			<Do refrence="cVal">
+				<magDA value="0"></magDA>
+				<angDA value="0"></angDA>
+			</Do>
+		</DO>
+		<DO refrence="PctPDIF1$MX$DifAClc$phsA">
+			<Do refrence="cVal">
+				<magDA value="0"></magDA>
+				<angDA value="0"></angDA>
+			</Do>
+		</DO>
+		<DO refrence="PctPDIF1$MX$DifAClc$phsB">
+			<Do refrence="cVal">
+				<magDA value="0"></magDA>
+				<angDA value="0"></angDA>
+			</Do>
+		</DO>
+		<DO refrence="PctPDIF1$MX$DifAClc$phsC">
+			<Do refrence="cVal">
+				<magDA value="0"></magDA>
+				<angDA value="0"></angDA>
+			</Do>
+		</DO>
+		<DO refrence="PctPDIF1$MX$DifAClc$neut">
+			<Do refrence="cVal">
+				<magDA value="0"></magDA>
+				<angDA value="0"></angDA>
+			</Do>
+		</DO>
+		<DO refrence="LinMMXU1$MX$PhV$net">
+			<Do refrence="cVal">
+				<magDA value="0"></magDA>
+				<angDA value="0"></angDA>
+			</Do>
+		</DO>
+	</DS>
+</Dataset>
